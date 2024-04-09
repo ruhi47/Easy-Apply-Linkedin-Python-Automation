@@ -54,4 +54,24 @@ Contributions are welcome! Feel free to submit pull requests, suggest improvemen
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
+## Technology Stack
+
+- ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+- ![Automation](https://img.shields.io/badge/-Automation-yellow?logo=automation&logoColor=white)
+- ![Algorithm](https://img.shields.io/badge/-Algorithm-red?logo=algorithm&logoColor=white)
+- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)
+- ![Selenium](https://img.shields.io/badge/-Selenium-green?logo=selenium&logoColor=white)
+- ![Selenium WebDriver](https://img.shields.io/badge/-Selenium%20WebDriver-green?logo=selenium&logoColor=white)
+- ![Robotics Programming](https://img.shields.io/badge/-Robotics%20Programming-orange?logo=robot&logoColor=white)
+- ![RPA](https://img.shields.io/badge/-RPA-orange?logo=rpa&logoColor=white)
+- ![Selenium with Python](https://img.shields.io/badge/-Selenium%20with%20Python-green?logo=selenium&logoColor=white)
+- ![Robotic Process Automation](https://img.shields.io/badge/-Robotic%20Process%20Automation-orange?logo=robot&logoColor=white)
+
+## Resources
+
+- [Python Documentation](https://www.python.org/doc/)
+- [Selenium Documentation](https://www.selenium.dev/documentation/en/)
+- [LinkedIn Developer Documentation](https://developer.linkedin.com/docs)
+- [Algorithm Visualizations](https://algorithm-visualizer.org/)
+- [Robotic Process Automation Resources](https://www.uipath.com/resources)
 
