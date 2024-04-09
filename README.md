@@ -1,6 +1,7 @@
 # Easy-Apply-Linkedin-Python-Automation
 
-# LinkedIn Job Application Automation
+## LinkedIn Job Application Automation
+![Image](https://github.com/ruhi47/Easy-Apply-Linkedin-Python-Automation/blob/main/easy%20apply.png)
 
 
 ## Overview
